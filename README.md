@@ -63,6 +63,9 @@ VCC            5V
 GND            GND
 \\\
 
+### Blok Diagram
+<img width="1295" height="606" alt="image" src="https://github.com/user-attachments/assets/91088de5-9c24-48d7-9147-b59d9bbaffdd" />
+
 ---
 
 ##  Library yang Dibutuhkan
@@ -278,3 +281,4 @@ Jika ada pertanyaan atau masalah, silakan hubungi tim pengembang.
 ---
 
 **Terakhir diupdate:** Desember 2025
+
